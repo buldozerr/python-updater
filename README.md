@@ -2,10 +2,9 @@
 
 Содержание
 ---
+[Описание]
 
 ## Описание
-===========
-
 Update project.
 Module compare two directories and copy newest files from source to
 destination directory.
