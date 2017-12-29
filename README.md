@@ -1,12 +1,12 @@
 # python-updater
 
-Содержание
+Contents
 ---
-* [Description](#1-описание)
-* [Usage](#usage)
+* [Description](#1-description)
+* [Usage](#2-usage)
   * [Example](#21-example)
 
-## 1. Описание
+## 1. Description
 Update project.
 Module compare two directories and copy newest files from source to
 destination directory.
