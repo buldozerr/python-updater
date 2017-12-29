@@ -2,9 +2,9 @@
 
 Содержание
 ---
-* [Description](#1. )
+* [Description](#1-описание)
 * [Usage](#usage)
-  * [Example](#example)
+  * [Example](#21-example)
 
 ## 1. Описание
 Update project.
